@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Linux on Marintarisa</title>
+    <link>https://marintarisa.github.io/tags/linux/</link>
+    <description>Recent content in Linux on Marintarisa</description>
+    <image>
+      <url>https://marintarisa.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://marintarisa.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 09 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://marintarisa.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Surprise! Installing Linux Ubuntu Is Easier Than You Think - Here&#39;s How!</title>
+      <link>https://marintarisa.github.io/posts/surprise-installing-linux-ubuntu-is-easier-than-you-think-here-s-how-/</link>
+      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://marintarisa.github.io/posts/surprise-installing-linux-ubuntu-is-easier-than-you-think-here-s-how-/</guid>
+      <description>Introduction Are you curious about Linux Ubuntu but don&amp;rsquo;t know where to start? Installing Linux Ubuntu is easier than you think! Here&amp;rsquo;s a step-by-step guide to help you get started.
+Definition of Linux Ubuntu Linux Ubuntu is a popular open-source operating system based on the Linux kernel. It is free to use and provides users with a secure and reliable computing experience.
+Overview of the Benefits of Linux Ubuntu Linux Ubuntu offers a variety of benefits for users, including enhanced security, increased reliability, and improved performance.</description>
+    </item>
+    
+    <item>
+      <title>linuxDiscover the Amazingly Simple Way to Install Arch Linux in Just 5 Minutes!</title>
+      <link>https://marintarisa.github.io/posts/linuxdiscover-the-amazingly-simple-way-to-install-arch-linux-in-just-5-minutes-/</link>
+      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://marintarisa.github.io/posts/linuxdiscover-the-amazingly-simple-way-to-install-arch-linux-in-just-5-minutes-/</guid>
+      <description>Introduction Arch Linux is a powerful and versatile Linux distribution that can be used for a wide variety of purposes. It is known for its minimalistic design, which makes it an ideal choice for users who want to customize their system to their exact specifications. In this blog post, we&amp;rsquo;ll take a look at how to install Arch Linux in just five minutes!
+Definition of Arch Linux Arch Linux is a Linux distribution designed to be lightweight and flexible.</description>
+    </item>
+    
+  </channel>
+</rss>

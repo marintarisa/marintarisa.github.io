@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ubuntu on Marintarisa</title>
+    <link>https://marintarisa.github.io/tags/ubuntu/</link>
+    <description>Recent content in Ubuntu on Marintarisa</description>
+    <image>
+      <url>https://marintarisa.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://marintarisa.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 07 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://marintarisa.github.io/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Incredibly Easy Steps to Installing Git on Ubuntu - You Won&#39;t Believe How Simple It Is!</title>
+      <link>https://marintarisa.github.io/posts/incredibly-easy-steps-to-installing-git-on-ubuntu-you-won-t-believe-how-simple-it-is-/</link>
+      <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://marintarisa.github.io/posts/incredibly-easy-steps-to-installing-git-on-ubuntu-you-won-t-believe-how-simple-it-is-/</guid>
+      <description>Introduction to Installing Git on Ubuntu Git is a version control system that allows developers to track changes to their code. It is a distributed system, meaning that it can be used on multiple computers and devices. Installing Git on Ubuntu is incredibly simple, and this article will provide a step-by-step guide to get you started.
+What Is Git? Git is a version control system that allows developers to track changes to their code.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Windows 10 on Marintarisa</title>
+    <link>https://marintarisa.github.io/tags/windows-10/</link>
+    <description>Recent content in Windows 10 on Marintarisa</description>
+    <image>
+      <url>https://marintarisa.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://marintarisa.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 08 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://marintarisa.github.io/tags/windows-10/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Surprising Trick: Install Windows 10 Without USB - Here&#39;s How!</title>
+      <link>https://marintarisa.github.io/posts/surprising-trick-install-windows-10-without-usb-here-s-how-/</link>
+      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://marintarisa.github.io/posts/surprising-trick-install-windows-10-without-usb-here-s-how-/</guid>
+      <description>Introduction Are you looking for an easy way to install Windows 10 without using a USB drive? Well, you’re in luck! In this blog post, we’ll show you a surprisingly simple trick that will allow you to install Windows 10 without the need for a USB drive.
+Overview of the Process The process of installing Windows 10 without a USB drive is surprisingly simple. All you need to do is download the Windows 10 ISO file from Microsoft’s website and then use a tool called Rufus to create a bootable Windows 10 installation disk on your computer’s hard drive.</description>
+    </item>
+    
+  </channel>
+</rss>

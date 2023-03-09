@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Database Management on Marintarisa</title>
+    <link>https://marintarisa.github.io/tags/database-management/</link>
+    <description>Recent content in Database Management on Marintarisa</description>
+    <image>
+      <url>https://marintarisa.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://marintarisa.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 09 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://marintarisa.github.io/tags/database-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unbelievable: Installing Postgresql on Mac Is Easier Than You Think!</title>
+      <link>https://marintarisa.github.io/posts/unbelievable-installing-postgresql-on-mac-is-easier-than-you-think-/</link>
+      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://marintarisa.github.io/posts/unbelievable-installing-postgresql-on-mac-is-easier-than-you-think-/</guid>
+      <description>Unbelievable: Installing Postgresql on Mac Is Easier Than You Think! Are you looking for a powerful open-source relational database system for your Mac? PostgreSQL is a great choice and the good news is that installing it is easier than you think! In this blog post, we’ll discuss what PostgreSQL is, the benefits of using it, and how to install it on your Mac.
+I. Introduction PostgreSQL is a powerful object-relational database system that is used by many businesses and organizations around the world.</description>
+    </item>
+    
+  </channel>
+</rss>

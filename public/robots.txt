@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://marintarisa.github.io/sitemap.xml

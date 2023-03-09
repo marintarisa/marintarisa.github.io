@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Windows Operating System on Marintarisa</title>
+    <link>https://marintarisa.github.io/tags/windows-operating-system/</link>
+    <description>Recent content in Windows Operating System on Marintarisa</description>
+    <image>
+      <url>https://marintarisa.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://marintarisa.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 06 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://marintarisa.github.io/tags/windows-operating-system/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unlock the Power of Python: Discover How to Install Django on Windows 10 in 5 Easy Steps!</title>
+      <link>https://marintarisa.github.io/posts/unlock-the-power-of-python-discover-how-to-install-django-on-windows-10-in-5-easy-steps-/</link>
+      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://marintarisa.github.io/posts/unlock-the-power-of-python-discover-how-to-install-django-on-windows-10-in-5-easy-steps-/</guid>
+      <description>Introduction to Installing Django on Windows 10 Overview of Python Python is a powerful and versatile programming language that has become increasingly popular in recent years. It can be used for web development, data analysis, game development, and much more. Python is easy to learn and use, making it a great choice for beginners and experienced developers alike.
+Benefits of Using Python Using Python has many advantages. It is open source, meaning that anyone can use and modify the language without paying a fee.</description>
+    </item>
+    
+  </channel>
+</rss>

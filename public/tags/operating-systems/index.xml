@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Operating Systems on Marintarisa</title>
+    <link>https://marintarisa.github.io/tags/operating-systems/</link>
+    <description>Recent content in Operating Systems on Marintarisa</description>
+    <image>
+      <url>https://marintarisa.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://marintarisa.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 09 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://marintarisa.github.io/tags/operating-systems/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Surprise! You Can Now Install Kali Linux on Windows 10 - Here&#39;s How!</title>
+      <link>https://marintarisa.github.io/posts/surprise-you-can-now-install-kali-linux-on-windows-10-here-s-how-/</link>
+      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://marintarisa.github.io/posts/surprise-you-can-now-install-kali-linux-on-windows-10-here-s-how-/</guid>
+      <description>Introduction Are you a security enthusiast looking for a way to run Kali Linux on your Windows 10 machine? If so, then you’re in luck! Microsoft recently released a feature that allows users to install Kali Linux directly onto their Windows 10 devices. In this blog post, we’ll discuss the benefits of installing Kali Linux on Windows 10, provide step-by-step instructions on how to do it, and wrap up with some final thoughts.</description>
+    </item>
+    
+    <item>
+      <title>Discover the Amazingly Simple Steps to Installing Windows Server 2019!</title>
+      <link>https://marintarisa.github.io/posts/discover-the-amazingly-simple-steps-to-installing-windows-server-2019-/</link>
+      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://marintarisa.github.io/posts/discover-the-amazingly-simple-steps-to-installing-windows-server-2019-/</guid>
+      <description>Introduction Are you interested in learning how to install Windows Server 2019? Installing Windows Server 2019 is easy and straightforward, and can be done in just a few steps. In this blog post, we&amp;rsquo;ll cover the basics of installing Windows Server 2019, including the prerequisites, step-by-step process, and the benefits of using the latest version of Windows Server.
+Overview of Windows Server 2019 Windows Server 2019 is the latest version of Microsoft’s server operating system.</description>
+    </item>
+    
+    <item>
+      <title>linuxDiscover the Amazingly Simple Way to Install Arch Linux in Just 5 Minutes!</title>
+      <link>https://marintarisa.github.io/posts/linuxdiscover-the-amazingly-simple-way-to-install-arch-linux-in-just-5-minutes-/</link>
+      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://marintarisa.github.io/posts/linuxdiscover-the-amazingly-simple-way-to-install-arch-linux-in-just-5-minutes-/</guid>
+      <description>Introduction Arch Linux is a powerful and versatile Linux distribution that can be used for a wide variety of purposes. It is known for its minimalistic design, which makes it an ideal choice for users who want to customize their system to their exact specifications. In this blog post, we&amp;rsquo;ll take a look at how to install Arch Linux in just five minutes!
+Definition of Arch Linux Arch Linux is a Linux distribution designed to be lightweight and flexible.</description>
+    </item>
+    
+  </channel>
+</rss>
